@@ -1,0 +1,9 @@
+export const BASE_URL = "https://salone-server.onrender.com";
+// export const BASE_URL = "http://localhost:3000";
+export const USERS_URL = "/api/users/";
+export const BRANCHES_URL = "/api/branches/";
+export const WORKERS_URL = "/api/workers/";
+export const APPOINTMENTS_URL = "/api/appointments/";
+export const SERVICES_URL = "/api/services/";
+export const PRODUCTS_URL = "/api/products/";
+export const TIMES_URL = "/api/times/";

@@ -1,4 +1,4 @@
-/* import React from 'react'
+import React from 'react'
 import { useTable } from 'react-table';
 import "../styles/WorkerSidePage.css";
 import data from "../../WorkerPageData";
@@ -81,4 +81,4 @@ const WorkerSidePage = () => {
   );
 }
 
-export default WorkerSidePage */
+export default WorkerSidePage
